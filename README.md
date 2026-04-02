@@ -2,6 +2,8 @@
 
 A production-grade backend for a finance dashboard system built with **FastAPI**, featuring role-based access control, financial record management, and analytics endpoints.
 
+🔗 **Live Demo:** [https://backend-assignment-vastal.onrender.com/docs](https://backend-assignment-vastal.onrender.com/docs)
+
 ---
 
 ## 🏗️ Architecture
