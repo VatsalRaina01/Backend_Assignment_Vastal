@@ -36,7 +36,7 @@ A production-grade backend for a finance dashboard system built with **FastAPI**
 ### 1. Clone & Setup
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/VatsalRaina01/Backend_Assignment_Vastal
 cd Zorvyn_Backend_Assignment
 
 # Create virtual environment
